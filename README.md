@@ -45,7 +45,7 @@ WishOS/
 - [X] Build Linux kernel
 - [X] Create root filesystem
 - [X] Implement package manager
-- [ ] Create package repository
+- [X] Create package repository
 - [ ] Generate bootable ISO
 - [ ] Graphical desktop support
 
