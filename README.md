@@ -41,10 +41,10 @@ WishOS/
 
 ## Roadmap
 
-- [ ] Bootstrap toolchain
-- [ ] Build Linux kernel
-- [ ] Create root filesystem
-- [ ] Implement package manager
+- [X] Bootstrap toolchain
+- [X] Build Linux kernel
+- [X] Create root filesystem
+- [X] Implement package manager
 - [ ] Create package repository
 - [ ] Generate bootable ISO
 - [ ] Graphical desktop support
